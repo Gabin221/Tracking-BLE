@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Tracking-BLE</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Blue Net Beacon</string>
+    <string name="nav_header_subtitle">bluenetbeacon@bnb.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_entrepot">Entrepôt</string>
+    <string name="menu_camion">Camion</string>
+    <string name="menu_parametres">Paramètres</string>
+    <string name="temperature_text">Température :</string>
+    <string name="beacon_text">Chargement...</string>
+    <string name="immatriculation_text">Saisir l\'immatriculation :</string>
+    <string name="zoneSaisie">//zone de saisie//</string>
+    <string name="immatFormat">AB-123-CD</string>
+    <string name="validationText">Valider</string>
+    <string name="adresseServeur">iris.hd.free.fr/tracking</string>
+    <string name="adresse_serveur_text">Saisir l\'adresse du serveur :</string>
+    <string name="saisie_correcte">Saisie correcte</string>
+    <string name="saisie_incorrecte">Saisie incorrecte</string>
+    <string name="boutonValider">Valider</string>
+    <string name="boutonAbandonner">Abandonner</string>
+    <string name="saisie_du_beacon">Saisie du beacon</string>
+    <string name="mmmm_mmmm">XXXX-XXXX</string>
+    <string name="valider">Valider</string>
+    <string name="ou">OU</string>
+    <string name="d_part">Départ</string>
+    <string name="arriv_e">Arrivée</string>
+    <string name="ceci_est_la_saisie_de_la_plaque_d_immatriculation">Saisir la plaque d\'immatriculation</string>
+    <string name="ceci_est_la_saisie_de_l_adresse_du_serveur_laquelle_envoyer_les_donn_es">Saisir l\'adresse du serveur</string>
+</resources>

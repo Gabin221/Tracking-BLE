@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_entrepot">
+
+    <fragment
+        android:id="@+id/nav_entrepot"
+        android:name="com.example.tracking_ble.ui.entrepot.EntrepotFragment"
+        android:label="@string/menu_entrepot"
+        tools:layout="@layout/fragment_entrepot" />
+
+    <fragment
+        android:id="@+id/nav_camion"
+        android:name="com.example.tracking_ble.ui.camion.CamionFragment"
+        android:label="@string/menu_camion"
+        tools:layout="@layout/fragment_camion" />
+
+    <fragment
+        android:id="@+id/nav_parametres"
+        android:name="com.example.tracking_ble.ui.parametres.ParametresFragment"
+        android:label="@string/menu_parametres"
+        tools:layout="@layout/fragment_parametres" />
+</navigation>

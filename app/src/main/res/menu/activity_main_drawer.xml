@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:id="@+id/sorting">
+        <item
+            android:id="@+id/nav_entrepot"
+            android:icon="@drawable/ic_menu_entrepot"
+            android:title="@string/menu_entrepot" />
+        <item
+            android:id="@+id/nav_camion"
+            android:icon="@drawable/ic_menu_camion"
+            android:title="@string/menu_camion" />
+    </group>
+
+    <group android:id="@+id/settings">
+        <item
+            android:id="@+id/nav_parametres"
+            android:icon="@drawable/ic_menu_parametres"
+            android:title="@string/menu_parametres" />
+    </group>
+</menu>

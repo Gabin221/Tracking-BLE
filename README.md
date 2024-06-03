@@ -17,7 +17,7 @@ Ceci lui permet donc de se repérer par rapport à la balise et ainsi la retrouv
 
 ### La page "Camion"
 
-La page **Camion** permet d'envoyer en base de données la liste des beacons autour de l'utilisateur.
+La page **Camion** permet d'envoyer en base de données la liste des beacons autour de l'utilisateur. Nous pouvons noter qu'un message apparaît lorsque le camion signal son départ via le bouton dédié.
 
 ### La page "Paramètres"
 

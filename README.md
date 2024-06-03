@@ -1,11 +1,14 @@
 # Tracking-BLE
 
 Ce projet a pour objectif de créer une application Androïd en Kotlin afin de pouvoir localiser des balises beacons environnantes. Cette application contient trois pages:  
+
 + Entrepôt
 + Camion
 + Paramètres
 
 ## Les pages de l'application
+
+![IHM de l'application](/Screenshot/ihm.png)
 
 ### La page "Entrepôt"
 
@@ -14,7 +17,7 @@ Ceci lui permet donc de se repérer par rapport à la balise et ainsi la retrouv
 
 ### La page "Camion"
 
-La page **Camion** permet d'envoyer en base de données la liste des beacons autour de l'utilisateur. 
+La page **Camion** permet d'envoyer en base de données la liste des beacons autour de l'utilisateur.
 
 ### La page "Paramètres"
 
